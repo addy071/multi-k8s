@@ -1,0 +1,9 @@
+kubectl create secret generic postgres_password --from-literal PGPASSWORD=password123
+
+kubectl get pods
+            services
+            deployments
+            volumes
+            pv
+            pvc
+            secrets
